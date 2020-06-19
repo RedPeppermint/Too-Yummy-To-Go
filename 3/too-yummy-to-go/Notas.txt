@@ -1,0 +1,10 @@
+fase 1 - 17.2
+	Casos de uso 0.9; SSD 5 0.8; SSD6 1; SSD7 0.8; Contrato5 0.95; Contrato6 0.9; Contrato7 0.7; MD 0.85
+fase 2 - 19.1
+	CD 1; ID5 0.95; ID6 0.9; ID7 0.95
+fases 3 e 4 - 17.8
+	Perdemos pontos:
+		Adapter: Interface/classe abstrata com um properties
+		Strategy mais robusto: identificar os atributos fundamentais de cada estratégia, por ex cada vez que uso o findraio crio um novo findraio com os atributos correspondetes (passar diretamente raio e lista e nao o Handler)
+		Observer: Comerciante implementa Observer, ComercianteInfo nao
+		Lançar mais exceções
