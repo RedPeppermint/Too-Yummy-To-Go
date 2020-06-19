@@ -1,0 +1,14 @@
+UC5:
+    Número do aluno: 52803
+    Nome do aluno: Diogo Fernandes
+    Horas gastas: 2h
+    
+UC6:
+    Número do aluno: 52806
+    Nome do aluno: Sara Queimado
+    Horas gastas: 2h
+    
+UC7:
+    Número do aluno: 52802
+    Nome do aluno: Joana Morais
+    Horas gastas: 2h

@@ -1,0 +1,17 @@
+UC5 - Colocar produto à venda
+
+op A: disponibilizarProdutos()
+
+pré-condições: Existe c: Comerciante corrente
+pos-condições: --
+
+op B: porProdutos(codigo, quantidade)
+
+pré-condições: Existe c: Comerciante corrente
+pos-condições: É criado 
+os codigos e quantidades são guardadas
+
+op C: confirmarProduto(hora inicio, hora fim)
+
+pré-condições: Existe um comerciante autenticado
+pos-condições: os produtos são postos pra venda da hora de inicio à de fim
